@@ -24,7 +24,7 @@ from his last novel, his two-hundred-and-ninth novel, which was unfinished when 
 monument looked like this:
 
 :::[Kilgore Trout, 1907-1981] 
-We are healthy only to the extent that our ideas are humane. 
+We are healthy only to the extent that our ideas are humane.
 ::: 
 
 ![A picture of a zombie with its arms wrapped around a tree](/img/zombie.jpg)
