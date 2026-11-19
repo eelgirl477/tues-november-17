@@ -52,7 +52,9 @@ We want to suggest a four-step plan for the Isla Vista Community Services Distri
 
 These measures should increase our ability to withstand the incoming hordes.
 
-## 4. Cost Analysis {#costs}
+## 4. Cost Analysis {#costs} 
+
+![i liked this picture](/img/two years old.jpg)
 
 Table 1 summarizes the cost of each measure, based on our own detailed economic analysis.
 
