@@ -3,8 +3,32 @@ id: zombie
 title: Zombie White Paper
 hide_title: true
 hide_table_of_contents: true
-description: "A white paper urging local government to prepare Isla Vista for a zombie outbreak, with a four-step plan, a cost analysis, and student survey results."
----
+description: "A white paper urging local government to prepare Isla Vista for a zombie outbreak, with a four-step plan, a cost analysis, and student survey results." 
+--- 
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem'; 
+
+<Tabs>
+<TabItem value="q1" label="Question 1" default>
+<iframe
+title="Your first chart's title"
+aria-label="Grouped column chart"
+src="https://datawrapper.dwcdn.net/1495F/"
+height="476"
+style={{ width: '100%', border: 'none' }}
+></iframe>
+</TabItem>
+<TabItem value="q2" label="Question 2">
+<iframe
+title="Your second chart's title"
+aria-label="Bar chart"
+src="https://datawrapper.dwcdn.net/abc12/"
+height="400"
+style={{ width: '100%', border: 'none' }}
+></iframe>
+</TabItem>
+</Tabs>
 
 # Defending our Home: Preparing Isla Vista for the Incoming Zombie Hordes
 
@@ -12,7 +36,14 @@ description: "A white paper urging local government to prepare Isla Vista for a 
   <span>**Kenneth Smith**<br/>UC Santa Barbara</span>
   <span>**J. M. Forester**<br/>Zombie Biology Institute</span>
   <span>**Jim McHiggleteeth**<br/>Zombie Biology Institute</span>
-</div>
+</div> 
+
+<iframe
+title="I would shoot my fellow students in the leg."
+aria-label="Grouped column chart"
+src="https://datawrapper.dwcdn.net/1495F/" height="476"
+style={{ width: '100%', border: 'none' }}
+></iframe>
 
 ## 1. Kilgore Trout {#kilgore}
 
